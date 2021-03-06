@@ -1,0 +1,100 @@
+Titulo: Eu Me Importo, nota: 6.2
+Titulo: Mortal Kombat, nota: 
+Titulo: Nomadland, nota: 7.6
+Titulo: Army of the Dead: Invasão em Las Vegas, nota: 
+Titulo: Tom & Jerry: O Filme, nota: 5.3
+Titulo: Liga da Justiça de Zack Snyder, nota: 
+Titulo: Monster Hunter, nota: 5.3
+Titulo: Judas e o Messias Negro, nota: 7.7
+Titulo: Os Pequenos Vestígios, nota: 6.3
+Titulo: Drishyam 2, nota: 8.8
+Titulo: Cruella, nota: 
+Titulo: Spider-Man: No Way Home, nota: 
+Titulo: SAS: Red Notice, nota: 
+Titulo: Relatos do Mundo, nota: 6.8
+Titulo: Wrong Turn, nota: 5.4
+Titulo: A Escavação, nota: 7.1
+Titulo: Bela Vingança, nota: 7.5
+Titulo: Flora e Ulysses, nota: 6.4
+Titulo: Willy's Wonderland, nota: 5.6
+Titulo: Tenet, nota: 7.5
+Titulo: The Mauritanian, nota: 7.3
+Titulo: Destruição Final: O Último Refúgio, nota: 6.4
+Titulo: Duas Tias Loucas de Férias, nota: 6.6
+Titulo: O Esquadrão Suicida, nota: 
+Titulo: Mulher-Maravilha 1984, nota: 5.4
+Titulo: Luca, nota: 
+Titulo: Vingadores: Ultimato, nota: 8.4
+Titulo: Godzilla vs. Kong, nota: 
+Titulo: Soul, nota: 8.1
+Titulo: Um Príncipe em Nova York, nota: 7.0
+Titulo: Dara iz Jasenovca, nota: 8.4
+Titulo: Cherry - Inocência Perdida, nota: 5.6
+Titulo: Raya e o Último Dragão, nota: 7.8
+Titulo: Minari, nota: 7.7
+Titulo: Bliss: Em Busca da Felicidade, nota: 5.3
+Titulo: Os 7 de Chicago, nota: 7.8
+Titulo: 365 dni, nota: 3.2
+Titulo: Um Príncipe em Nova York 2, nota: 5.5
+Titulo: Boss Level - O Último Nível, nota: 6.8
+Titulo: Duna, nota: 
+Titulo: Mundo em Caos, nota: 5.5
+Titulo: Garota Exemplar, nota: 8.1
+Titulo: The United States vs. Billie Holiday, nota: 6.4
+Titulo: Vingadores: Era de Ultron, nota: 7.3
+Titulo: Malcolm & Marie, nota: 6.7
+Titulo: Music, nota: 3.1
+Titulo: Doctor Strange in the Multiverse of Madness, nota: 
+Titulo: O Mapa das Pequenas Coisas Perfeitas, nota: 6.8
+Titulo: Para Todos os Garotos: Agora e Para Sempre, nota: 6.3
+Titulo: Capitã Marvel, nota: 6.9
+Titulo: Missão: Impossível - Efeito Fallout, nota: 7.7
+Titulo: Palmer, nota: 7.3
+Titulo: Um Sonho de Liberdade, nota: 9.3
+Titulo: O Som do Silêncio, nota: 7.8
+Titulo: Parasita, nota: 8.6
+Titulo: Os Croods 2: Uma Nova Era, nota: 7.0
+Titulo: Era Uma Vez Em... Hollywood, nota: 7.6
+Titulo: O Silêncio dos Inocentes, nota: 8.6
+Titulo: Thor: Love and Thunder, nota: 
+Titulo: Argo, nota: 7.7
+Titulo: Palm Springs, nota: 7.4
+Titulo: O Poderoso Chefão, nota: 9.2
+Titulo: Liga da Justiça, nota: 6.3
+Titulo: Uma Noite em Miami..., nota: 7.2
+Titulo: Thor: Ragnarok, nota: 7.9
+Titulo: Harry Potter e a Pedra Filosofal, nota: 7.6
+Titulo: Vingadores: Guerra Infinita, nota: 8.4
+Titulo: Mortal Kombat, nota: 5.8
+Titulo: O Lobo de Wall Street, nota: 8.2
+Titulo: Entre Facas e Segredos, nota: 7.9
+Titulo: Os Eternos, nota: 
+Titulo: Magnatas do Crime, nota: 7.8
+Titulo: Ponto Vermelho, nota: 5.5
+Titulo: Coringa, nota: 8.4
+Titulo: Blithe Spirit, nota: 5.4
+Titulo: Mank, nota: 7.0
+Titulo: Bastardos Inglórios, nota: 8.3
+Titulo: The Batman, nota: 
+Titulo: Missão: Impossível 7, nota: 
+Titulo: Capone, nota: 4.7
+Titulo: Interestelar, nota: 8.6
+Titulo: Meu Pai, nota: 7.9
+Titulo: The Girl on the Train, nota: 3.8
+Titulo: Sonic: O Filme, nota: 6.5
+Titulo: Batman: O Cavaleiro das Trevas, nota: 9.0
+Titulo: Jurassic Park: O Parque dos Dinossauros, nota: 8.1
+Titulo: Pulp Fiction: Tempo de Violência, nota: 8.9
+Titulo: Titanic, nota: 7.8
+Titulo: O Tigre Branco, nota: 7.2
+Titulo: Pantera Negra, nota: 7.3
+Titulo: A Origem, nota: 8.8
+Titulo: O Senhor dos Anéis: A Sociedade do Anel, nota: 8.8
+Titulo: Midsommar: O Mal Não Espera a Noite, nota: 7.1
+Titulo: After We Fell, nota: 
+Titulo: Nova Ordem Espacial, nota: 6.6
+Titulo: Deadpool, nota: 8.0
+Titulo: Guardiões da Galáxia, nota: 8.0
+Titulo: Druk, nota: 7.8
+Titulo: Bohemian Rhapsody, nota: 8.0
+Titulo: Silk Road, nota: 5.8
